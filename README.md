@@ -506,7 +506,7 @@ y reemplazar el nombre si fuera necesario.
 -->
 
 <p align="center">
-  <img src="evidencias/ejercicio1.png" width="750" alt="Ejecución del Ejercicio 1 - Control de calificaciones">
+  <img src="evidencias/ejercicio 1.png" width="750" alt="Ejecución del Ejercicio 1 - Control de calificaciones">
 </p>
 
 ---
