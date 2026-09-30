@@ -506,7 +506,7 @@ y reemplazar el nombre si fuera necesario.
 -->
 
 <p align="center">
-  <img src="evidencias/ejercicio1.png" width="750" alt="Ejecución del Ejercicio 1 - Promedio de calificaciones">
+  <img src="evidencias/ejercicio1.png" width="750" alt="Ejecución del Ejercicio 1 - Control de calificaciones">
 </p>
 
 ---
@@ -514,7 +514,7 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 2
 
 <p align="center">
-  <img src="evidencias/ejercicio2.png" width="750" alt="Ejecución del Ejercicio 2 - Control de edades con centinela">
+  <img src="evidencias/ejercicio2.png" width="750" alt="Ejecución del Ejercicio 2 - Tabla de multiplicar configurable">
 </p>
 
 ---
@@ -522,7 +522,7 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 3
 
 <p align="center">
-  <img src="evidencias/ejercicio3.png" width="750" alt="Ejecución del Ejercicio 3 - Calculadora con menú repetitivo">
+  <img src="evidencias/ejercicio3.png" width="750" alt="Ejecución del Ejercicio 3 - Serie y suma de números pares">
 </p>
 
 ---
@@ -530,7 +530,7 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 4
 
 <p align="center">
-  <img src="evidencias/ejercicio4.png" width="750" alt="Ejecución del Ejercicio 4 - Tabla de multiplicar validada">
+  <img src="evidencias/ejercicio4.png" width="750" alt="Ejecución del Ejercicio 4 - Cajero automático básico">
 </p>
 
 ---
@@ -538,7 +538,7 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 5
 
 <p align="center">
-  <img src="evidencias/ejercicio5.png" width="750" alt="Ejecución del Ejercicio 5 - Cajero universitario">
+  <img src="evidencias/ejercicio5.png" width="750" alt="Ejecución del Ejercicio 5 - Estacionamiento universitario">
 </p>
 
 ---
@@ -546,7 +546,7 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 6
 
 <p align="center">
-  <img src="evidencias/ejercicio6.png" width="750" alt="Ejecución del Ejercicio 6 - Estadísticas de un curso">
+  <img src="evidencias/ejercicio6.png" width="750" alt="Ejecución del Ejercicio 6 - Triángulo y patrones">
 </p>
 
 ---
@@ -554,7 +554,7 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 7
 
 <p align="center">
-  <img src="evidencias/ejercicio7.png" width="750" alt="Ejecución del Ejercicio 7 - Venta de entradas CineCampus">
+  <img src="evidencias/ejercicio7.png" width="750" alt="Ejecución del Ejercicio 7 - Control de ventas de cafetería">
 </p>
 
 ---
@@ -562,7 +562,7 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 8
 
 <p align="center">
-  <img src="evidencias/ejercicio8.png" width="750" alt="Ejecución del Ejercicio 8 - Estacionamiento universitario">
+  <img src="evidencias/ejercicio8.png" width="750" alt="Ejecución del Ejercicio 8 - Detector y depurador de errores">
 </p>
 
 ---
@@ -570,7 +570,7 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 9
 
 <p align="center">
-  <img src="evidencias/ejercicio9.png" width="750" alt="Ejecución del Ejercicio 9 - Matriz lógica de asistencia">
+  <img src="evidencias/ejercicio9.png" width="750" alt="Ejecución del Ejercicio 9 - Estadísticas de una encuesta universitaria">
 </p>
 
 ---
@@ -578,15 +578,9 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 10
 
 <p align="center">
-  <img src="evidencias/ejercicio10_1.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrado de ventas">
+  <img src="evidencias/ejercicio10_1.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrador de parqueadero">
 </p>
 <p align="center">
-  <img src="evidencias/ejercicio10_2.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrado de ventas">
-</p>
-<p align="center">
-  <img src="evidencias/ejercicio10_3.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrado de ventas">
-</p>
----
 
 # 🎯 Conclusiones · Caso cerrado
 
